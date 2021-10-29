@@ -133,3 +133,7 @@ ntl deploy
 
 O podrias hacer un push de tu proyecto e inmediatamente el CI de netlify desplegara esto.
 
+## Tarea
+
+1. Vas a crear una function serverless que permita buscar los gists de github de un usuario cualquiera.
+2. Crearas una function serverless que solo acepte el metodo `POST` y reciba en el cuerpo de la solicitud `name` y `yearBirth` y de como resultado un mensaje como `${NAME} tu edad actual es {AGE}`
