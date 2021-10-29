@@ -99,7 +99,7 @@ Luego de ejecutar este comando veremos en la terminal algo similar a lo que vemo
 
 Si abrieramos el navegador y fueramos a esa ruta (http://localhost:52110) veriamos una pagina blanca con un mensaje `Not Found`.
 
-## Consumir uan function
+## Consumir una function
 Para consultar la funcion `hello` que acabamos de crear debemos agregar a la url del paso anterior el sigueinte path `/.netlify/functions/hello`
 
 Este path `/.netlify/functions` es necesario para poder consumir la function.
